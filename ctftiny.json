@@ -76,6 +76,13 @@
     "challenge": "The Lengths we Extend Ourselves",
     "path": "ctftiny/cry/The Lengths we Extend Ourselves"
   },
+  "cry-beyond-quantum": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "crypto",
+    "challenge": "Beyond-Quantum",
+    "path": "ctftiny/cry/Beyond-Quantum"
+  },
   "for-1black0white": {
     "year": "2023",
     "event": "CSAW-Quals",
@@ -124,6 +131,13 @@
     "category": "misc",
     "challenge": "Weak-Password",
     "path": "ctftiny/msc/Weak-Password"
+  },
+  "msc-quantum-leap": {
+    "year": "2022",
+    "event": "CSAW-Quals",
+    "category": "misc",
+    "challenge": "quantum-leap",
+    "path": "ctftiny/msc/quantum-leap"
   },
   "pwn-bigboy": {
     "year": "2018",
@@ -187,6 +201,20 @@
     "category": "pwn",
     "challenge": "unlimited_subway",
     "path": "ctftiny/pwn/unlimited_subway"
+  },
+  "pwn-baby-boi": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "baby_boi",
+    "path": "ctftiny/pwn/baby_boi"
+  },
+  "pwn-got-milk": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "pwn",
+    "challenge": "got_milk",
+    "path": "ctftiny/pwn/got_milk"
   },
   "rev-a-walk-through-x86-part-2": {
     "year": "2018",
@@ -285,6 +313,20 @@
     "category": "rev",
     "challenge": "whataxor",
     "path": "ctftiny/rev/whataxor"
+  },
+  "rev-beleaf": {
+    "year": "2019",
+    "event": "CSAW-Quals",
+    "category": "rev",
+    "challenge": "beleaf",
+    "path": "ctftiny/rev/beleaf"
+  },
+  "rev-maze": {
+    "year": "2021",
+    "event": "CSAW-Finals",
+    "category": "rev",
+    "challenge": "maze",
+    "path": "ctftiny/rev/maze"
   },
   "web-poem-collection": {
     "year": "2021",
