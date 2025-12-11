@@ -1,6 +1,8 @@
 # CTFTiny: Lite Benchmarking Offensive Cyber Skills in Large Language Models
 This is the official repository for CTFTiny from [paper](https://arxiv.org/abs/2508.05674) "Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark" (AAAI'26).
 
+For CTFJudge, please refer to [CTFJudge Official Repository](https://github.com/NYU-LLM-CTF/CTFJudge).
+
 ## Challenge List
 
 | Category | Event | Name                                  | Difficulty |
